@@ -1,0 +1,6 @@
+framework module Pods_IO_Connect_Example {
+  umbrella header "Pods-IO Connect Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
